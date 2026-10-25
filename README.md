@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="btn-portfolio.svg" alt="Interactive portfolio" height="48"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="btn-linkedin.svg" alt="LinkedIn" height="48"></a>
+  <a href="https://kennylem.github.io"><img src="btn-portfolio.svg" alt="Interactive portfolio" height="48"></a>
+  <a href="https://www.linkedin.com/in/clementinewafo/"><img src="btn-linkedin.svg" alt="LinkedIn" height="48"></a>
   <a href="mailto:cklementinewa@gmail.com"><img src="btn-email.svg" alt="Email" height="48"></a>
 </p>
 
